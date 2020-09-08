@@ -2,7 +2,9 @@
 layout: default
 title: Mastermind Game - Rearrange the code blocks!
 ---
-
+<link href="https://js-parsons.github.io/js/js-parsons/parsons.css" rel="stylesheet" />
+<link href="https://js-parsons.github.io/js/js-parsons/lib/prettify.css" rel="stylesheet" />
+    
 <div id="sortableTrash" class="sortable-code"></div> 
 <div id="sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
