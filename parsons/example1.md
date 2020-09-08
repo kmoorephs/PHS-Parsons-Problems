@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Page 2 Example (Variable Check Grader)
+title: Mastermind Game - Rearrange the code blocks!
 ---
 
 <div id="sortableTrash" class="sortable-code"></div> 
